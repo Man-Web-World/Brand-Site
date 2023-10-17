@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1000px) {
+    #projects {
+        @include container-fluid(60px, 3500px);
+    }
+}
